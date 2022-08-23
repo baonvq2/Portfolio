@@ -7,6 +7,6 @@ SEO data source is collected from the multiple tools, one of which is Advance We
 In terms of pricing data, it comes from both internal data and external one (our engineer team built up a frequent data crawler to mine all the listing information from our main competitors - including price data as well)
 
 
-Language: 
-  SQL = Standard SQL (used in GoogleBig Query)
-  Python - Jupyter Notebook
+#Language: 
+  SQL = Standard SQL (used in GoogleBig Query); 
+  Python - Jupyter Notebook;
